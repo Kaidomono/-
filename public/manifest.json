@@ -1,0 +1,21 @@
+{
+  "name": "Steppe Nomad: Khan's Legacy",
+  "short_name": "Steppe Nomad",
+  "description": "Historical life simulator set in the Mongolian Steppe.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2b1d0e",
+  "theme_color": "#c57d21",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/adventurer/svg?seed=Khan&backgroundColor=c57d21",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/adventurer/svg?seed=Khan&backgroundColor=c57d21",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
