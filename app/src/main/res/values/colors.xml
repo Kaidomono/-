@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_steppe">#C5A021</color>
+    <color name="primary_dark">#2B1D0E</color>
+    <color name="parchment_bg">#E8DAB2</color>
+    <color name="parchment_dark">#8B7355</color>
+    <color name="ink_black">#1A0F05</color>
+</resources>
